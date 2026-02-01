@@ -16,8 +16,7 @@
 I’m a data analyst who enjoys working at the intersection of business thinking and data. I like building intuitive dashboards but I’m more interested in understanding the why behind a problem and using data to uncover insights that actually matter to the business.
 
 I’m naturally creative, which reflects in how I structure analyses and design dashboards that are clear and easy to use. My business background helps me think beyond numbers and focus on how insights can drive better decisions, improve performance, and create real impact.
-
-I especially enjoy working on problems where the answer isn’t obvious at first, and the most satisfying part for me is when the data suddenly clicks and reveals something meaningful. Outside of analytics, I enjoy reading and constantly learning new things.
+Outside of analytics, I enjoy reading and constantly learning new things.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
